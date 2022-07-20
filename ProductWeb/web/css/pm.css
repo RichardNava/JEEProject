@@ -1,0 +1,66 @@
+.header {
+    background: #7777EE;
+    color:white;
+    font-size: 120%;
+    font-weight: bold;
+    padding:15px
+}
+.footer {
+    background: #7777EE;
+    color:white;
+    font-size: 80%;
+    padding:15px
+}
+.nav {
+    background: #DEDEFF;
+    color:white;
+    padding:15px;
+    border-bottom-color: white;
+    border-top-color: white;
+    border-bottom-style: solid;
+    border-top-style: solid
+}
+.content {
+    background: #DEDEFF;
+    padding:15px
+}
+.error {
+    border-color: red;
+    border-style: double;
+    background: #DEDEFF;
+    padding:3px;
+    margin: 3px
+}
+.info {
+    border-color: green;
+    border-style: double;
+    background: #DEDEFF;
+    padding:3px;
+    margin: 3px
+}
+.warn {
+    border-color: yellow;
+    border-style: double;
+    background: #DEDEFF;
+    padding:3px;
+    margin: 3px
+}
+.data {
+    padding: 3px
+}
+.chat {
+    color: grey;
+    padding: 3px;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+    border-bottom-style: dashed
+}
+.field label {
+    display: inline-block;
+    width: 140px;
+    margin: 2px
+}
+.field input {
+    display: inline-block;
+    margin: 2px
+}
